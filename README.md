@@ -150,5 +150,5 @@ db.products.find().pretty()
 ## Conclusion
 This API provides a structured and efficient approach to product management, leveraging **Spring Boot** and **MongoDB** while ensuring best practices in backend development.
 
-**Author:** Ayush Mahale
+**Author:** Sudhamsh Dingari
 
